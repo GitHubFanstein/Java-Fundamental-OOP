@@ -1,5 +1,8 @@
 public interface JavaOOPInterface {
-    public void checkUserLogin();
+    public void login();
     public void leaveApplication();
+
+
+
     public void tesStop();
 }
